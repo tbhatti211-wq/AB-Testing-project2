@@ -63,7 +63,7 @@ This project performs a full pre/post analysis of the program's impact, comparin
 - **Line chart: daily transaction volume pre vs post launch (with Oct 31 launch marker)**
 - Bar chart: avg spend by country and referral status
 - Bar chart: overall avg spend pre vs post launch
-![Pre vs Post Refferal Transaction Volumne]("visuals/daily-pre-vs-post-transaction.png")
+![Pre vs Post Refferal Transaction Volumne](visuals/daily-pre-vs-post-transaction.png)
 
 ### 4. Country Analysis
 - Referral adoption rate by country
